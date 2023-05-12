@@ -1,7 +1,7 @@
 ### <div align="center">Hi, I'm Saleha, an AI/ML enthusiast 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on some NLP and Deep Learning related projects  
+- 🔭 I’m currently working on some NLP and Deep Learning related research projects  
   
 
 - 🌱 I’m currently learning all about Deep Learning  
