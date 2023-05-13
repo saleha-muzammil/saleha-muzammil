@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning all about Deep Learning  
   
 
-- 👯 I’m looking to collaborate on any AI/Ml related projects  
+- 👯 I’m looking to collaborate on any AI/ML related projects  
   
 
 - ⚡ Fun fact: My music taste is horrible  
