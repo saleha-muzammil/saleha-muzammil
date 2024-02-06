@@ -1,10 +1,10 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/salehamuzammil/">Saleha</a>, an AI/ML enthusiast 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Federated Learning, LLMs , Medical Image Segmentation, and Speech and Text Processing. 
+- 🔭 I’m currently working on Federated Learning, Genrative AI , Medical Image Segmentation, and Speech and Text Processing. 
   
 
-- 🌱 I’m currently learning all about Deep Learning  
+- 🌱 I’m currently learning all about Deep Learning
   
 
 - 👯 I’m looking to collaborate on any AI/ML related projects  
