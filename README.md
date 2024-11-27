@@ -1,10 +1,10 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/salehamuzammil/">Saleha</a> 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Software and Systems. 
+- 🔭 I enjoy working on Empirical Software Engineering, Software Reproducibility, and Fuzzing systems
     
 
-- 👯 I’m looking to collaborate on any SE4ML related projects  
+- 👯 I’m looking to collaborate on SE4ML projects 
   
 
 - ⚡ Fun fact: My music taste is horrible  
