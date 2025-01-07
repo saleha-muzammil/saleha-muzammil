@@ -1,14 +1,13 @@
 ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/salehamuzammil/">Saleha</a> 👨‍💻</div>  
   
 
-- 🔭 I enjoy working on Empirical Software Engineering, Software Reproducibility, and Fuzzing systems
+- I enjoy working on Empirical Software Engineering, Software Reproducibility, and Fuzzing systems
     
 
-- 👯 I’m looking to collaborate on SE4ML projects 
+- I’m looking to collaborate on SE4ML projects 
   
 
-- ⚡ Fun fact: My music taste is horrible  
-  
+- A paper I really enjoyed reading -> <a href="https://dl.acm.org/doi/pdf/10.1145/3660825/">Natural Symbolic Execution-based Testing for Big Data Analytics</a>
 
 <br/>  
 
